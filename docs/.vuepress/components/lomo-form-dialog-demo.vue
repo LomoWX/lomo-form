@@ -56,7 +56,7 @@ export default {
           name: "使用组件",
           desc: "有什么建议吗",
         };
-        this.formData.name = "agrass";
+        this.formData.name = "lomo";
         this.$message.success("获取详情成功");
         this.form.loading = false;
       }, 2000);

@@ -74,4 +74,4 @@ Vue.use(customSelect);
 
 
 
-感谢看到这里，这里有所有演示用的[源码](https://github.com/agrass-GitHub/lomo-form/tree/master/docs/.vuepress/components)。
+感谢看到这里，这里有所有演示用的[源码](https://github.com/lomo-GitHub/lomo-form/tree/master/docs/.vuepress/components)。

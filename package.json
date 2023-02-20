@@ -20,7 +20,8 @@
     "publishdocs": "gh-pages -d distdocs",
     "setnpm": "npm config set registry https://registry.npmjs.org/",
     "publish": "npm publish",
-    "setnpmtb": "npm config set registry http://registry.npm.taobao.org/"
+    "setnpmtb": "npm config set registry http://registry.npm.taobao.org/",
+    "setnpmv": "pm version patch"
   },
   "dependencies": {
     "update": "^0.7.4"

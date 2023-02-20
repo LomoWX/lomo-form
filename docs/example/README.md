@@ -2,7 +2,7 @@
 
 ## 介绍
 
-[lomo-form](https://github.com/agrass-GitHub/lomo-form) 是基于 [element-ui form](https://element.eleme.cn/#/zh-CN/component/form) 的二次封装，极简的思想，完全的数据驱动，拥有绝对的灵活性，可以帮助你更快速的开发！up! up! up!
+[lomo-form](https://github.com/lomo-GitHub/lomo-form) 是基于 [element-ui form](https://element.eleme.cn/#/zh-CN/component/form) 的二次封装，极简的思想，完全的数据驱动，拥有绝对的灵活性，可以帮助你更快速的开发！up! up! up!
 [![npm](https://img.shields.io/npm/v/lomo-form.svg)](https://www.npmjs.com/package/lomo-form)
 [![download](https://img.shields.io/npm/dt/lomo-form)](https://npmcharts.com/compare/lomo-form?minimal=true)
 

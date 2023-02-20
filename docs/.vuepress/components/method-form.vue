@@ -17,7 +17,7 @@ export default {
         span: 16,
         data: {
           user: "",
-          address: "https://github.com/agrass-GitHub/lomo-form",
+          address: "https://github.com/lomo-GitHub/lomo-form",
         },
         rules: {
           user: [

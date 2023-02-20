@@ -176,7 +176,7 @@ slots:"查询"  ===  slots:h("span",{},"查询")  ===  slots:{ default:h("span",
 
 更多基础知识请参考 [渲染函数 & JSX](https://cn.vuejs.org/v2/guide/render-function.html)
 
-这里有所有演示用的[源码](https://github.com/agrass-GitHub/lomo-form/tree/master/docs/.vuepress/components)。
+这里有所有演示用的[源码](https://github.com/lomo-GitHub/lomo-form/tree/master/docs/.vuepress/components)。
 
 
 ## 表单配置
@@ -247,4 +247,4 @@ slots:"查询"  ===  slots:h("span",{},"查询")  ===  slots:{ default:h("span",
 <<< @/src/utils/const.js
 ::: 
 
-相关源码 [lomo-form/src/utils/const.js](https://github.com/agrass-GitHub/lomo-form/blob/master/src/utils/const.js)
+相关源码 [lomo-form/src/utils/const.js](https://github.com/lomo-GitHub/lomo-form/blob/master/src/utils/const.js)

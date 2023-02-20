@@ -10,7 +10,7 @@
 
 ## 介绍
 
-[//]: # ([lomo-form]&#40;https://agrass.gitee.io/lomo-form/&#41; 是基于 [element-ui form]&#40;https://element.eleme.cn/#/zh-CN/component/form&#41; 的二次封装，极简的思想，完全的数据驱动，拥有绝对的灵活性，可以帮助你更快速的开发！up! up! up!)
+[//]: # ([lomo-form]&#40;https://lomo.gitee.io/lomo-form/&#41; 是基于 [element-ui form]&#40;https://element.eleme.cn/#/zh-CN/component/form&#41; 的二次封装，极简的思想，完全的数据驱动，拥有绝对的灵活性，可以帮助你更快速的开发！up! up! up!)
 
 
 ## 特性
@@ -36,29 +36,29 @@
 
 #### 表单布局组件
 
-[//]: # (- [lomo-form-inline]&#40;https://agrass.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
+[//]: # (- [lomo-form-inline]&#40;https://lomo.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
 
-[//]: # (- [lomo-form-grid]&#40;https://agrass.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
+[//]: # (- [lomo-form-grid]&#40;https://lomo.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
 
-[//]: # (- [lomo-form-descriptions]&#40;https://agrass.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
+[//]: # (- [lomo-form-descriptions]&#40;https://lomo.gitee.io/lomo-form/component/lomo-form-layout.html&#41; )
 
-[//]: # (- [lomo-form-tableditor]&#40;https://agrass.gitee.io/lomo-form/component/lomo-form-layout.html&#41;)
+[//]: # (- [lomo-form-tableditor]&#40;https://lomo.gitee.io/lomo-form/component/lomo-form-layout.html&#41;)
 
 #### 表单子组件
 
-[//]: # (- [lomo-checkbox]&#40;https://agrass.gitee.io/lomo-form/component/lomo-checkbox-radio.html&#41; )
+[//]: # (- [lomo-checkbox]&#40;https://lomo.gitee.io/lomo-form/component/lomo-checkbox-radio.html&#41; )
 
-[//]: # (- [lomo-radio]&#40;https://agrass.gitee.io/lomo-form/component/lomo-checkbox-radio.html&#41; )
+[//]: # (- [lomo-radio]&#40;https://lomo.gitee.io/lomo-form/component/lomo-checkbox-radio.html&#41; )
 
-[//]: # (- [lomo-select]&#40;https://agrass.gitee.io/lomo-form/component/lomo-select.html&#41; )
+[//]: # (- [lomo-select]&#40;https://lomo.gitee.io/lomo-form/component/lomo-select.html&#41; )
 
-[//]: # (- [lomo-tree-select]&#40;https://agrass.gitee.io/lomo-form/component/lomo-tree-select.html&#41; )
+[//]: # (- [lomo-tree-select]&#40;https://lomo.gitee.io/lomo-form/component/lomo-tree-select.html&#41; )
 
-[//]: # (- [lomo-upload]&#40;https://agrass.gitee.io/lomo-form/component/lomo-upload.html&#41; )
+[//]: # (- [lomo-upload]&#40;https://lomo.gitee.io/lomo-form/component/lomo-upload.html&#41; )
 
-[//]: # (- [lomo-map-input]&#40;https://agrass.gitee.io/lomo-form/component/lomo-map-input.html&#41;)
+[//]: # (- [lomo-map-input]&#40;https://lomo.gitee.io/lomo-form/component/lomo-map-input.html&#41;)
 
-[//]: # (- [lomo-dynamic-tags]&#40;https://agrass.gitee.io/lomo-form/component/lomo-dynamic-tags.html&#41;  )
+[//]: # (- [lomo-dynamic-tags]&#40;https://lomo.gitee.io/lomo-form/component/lomo-dynamic-tags.html&#41;  )
 
 #### 其他
 

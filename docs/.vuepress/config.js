@@ -10,7 +10,7 @@ module.exports = {
       { text: '首页', link: '/' },
       { text: '文档', link: '/example/' },
       { text: '更新日志', link: '/log' },
-      { text: 'Github', link: 'https://github.com/agrass-GitHub/lomo-form' }
+      { text: 'Github', link: 'https://github.com/LomoWX/lomo-form.git' }
     ],
     sidebar: [
       {
