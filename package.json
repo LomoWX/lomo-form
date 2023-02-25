@@ -1,6 +1,6 @@
 {
   "name": "lomo-form",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "main": "src/index.js",
   "description": "a easy form of element-ui form",
   "homepage": "",
